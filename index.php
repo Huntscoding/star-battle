@@ -19,18 +19,18 @@
         <div id="container" class="absolute">
             <div id="start" class="column">
                 <p class="message pre">
-                    1. 使用 W、A、S、D 控制飞船，按下 Space 发射。
-                    2. 燃料初始值为15，每秒递减1点，当燃料值为0时，游戏结束。
-                    3. 触碰掉下的燃料瓶可增加15点，最大值为30点。
-                    4. 击中敌方飞船增加5分。行星需击中两次，增加10分。击中友方扣除10分。
-                    5. 撞击敌方损失15点燃料，撞击友方扣除10分。
-                    6. 游戏允许负分。
-                    7. 按下 P 暂停游戏，按下 M 静音。
-                    开始您的星际大战吧！
+                    1. Use W, A, S, D to control the ship, press Space to launch.
+                    2. The initial value of fuel is 15, which decreases by 1 point every second. When the fuel value is 0, the game ends.
+                    3. Touch the dropped fuel bottle to add 15 points to a maximum of 30 points.
+                    4. Hit the enemy ship to increase 5 points. Planets need to be hit twice, adding 10 points. Deduct 10 points for hitting an ally.
+                    5. Hit the enemy loses 15 points of fuel, hit the friendly deduct 10 points.
+                    6. The game allows negative scores.
+                    7. Press P to pause the game and M to mute.
+                    Start your Star Warsnigga!
                 </p>
                 <button id="start-btn" class="btn">
-                    <p>开始游戏</p>
-                    <p>加载中...</p>
+                    <p>start the game</p>
+                    <p>Loading...</p>
                 </button>
             </div>
             <div id="play" class="absolute">
